@@ -1,0 +1,23 @@
+.sopra {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.div-immagine {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nome-sito {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.foto {
+    width: 250px;
+    height: 250px;
+}
